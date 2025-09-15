@@ -44,17 +44,11 @@ Here are a few of my practice projects:
 
 📫 **Connect with Me**
 
-- 🌐 Portfolio: chanderkant.pythonanywhere.com
+- 🌐 Portfolio: https://chanderkant.pythonanywhere.com/
 - 📧 Email: ckdhiman496@gmail.com
 - 💼 LinkedIn:www.linkedin.com/in/chander-kant-028543333
 
 ---
-
-📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox" />
-</p>
 
 ---
 
