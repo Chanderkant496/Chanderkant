@@ -1,5 +1,5 @@
 # Chanderkant
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm [Chanderkant]</h1>
 <h3 align="center">Aspiring Python/Django Developer | Open to Opportunities</h3>
 
 <p align="center">
