@@ -1,6 +1,6 @@
 # Chanderkant
 <h1 align="center">Hi 👋, I'm [Chanderkant]</h1>
-<h3 align="center">Aspiring Python/Django Developer | Open to Opportunities</h3>
+<h3 align="center">Aspiring Python/Django Developer | Data science |Open to Opportunities</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
